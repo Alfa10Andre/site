@@ -1,0 +1,146 @@
+[
+  {
+    "name": "app-servicos-web",
+    "path": "/app-servicos-web",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\app-servicos-web\\\\index.vue",
+    "chunkName": "pages/app-servicos-web/index"
+  },
+  {
+    "name": "case-studies",
+    "path": "/case-studies",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\case-studies\\\\index.vue",
+    "chunkName": "pages/case-studies/index"
+  },
+  {
+    "name": "curso-elearning-amedida",
+    "path": "/curso-elearning-amedida",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\curso-elearning-amedida\\\\index.vue",
+    "chunkName": "pages/curso-elearning-amedida/index"
+  },
+  {
+    "name": "fale-connosco",
+    "path": "/fale-connosco",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\fale-connosco.vue",
+    "chunkName": "pages/fale-connosco"
+  },
+  {
+    "name": "formacao-certificada",
+    "path": "/formacao-certificada",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\formacao-certificada\\\\index.vue",
+    "chunkName": "pages/formacao-certificada/index"
+  },
+  {
+    "name": "plataformas-elearning",
+    "path": "/plataformas-elearning",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\plataformas-elearning\\\\index.vue",
+    "chunkName": "pages/plataformas-elearning/index"
+  },
+  {
+    "name": "sobre-nos",
+    "path": "/sobre-nos",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\sobre-nos.vue",
+    "chunkName": "pages/sobre-nos"
+  },
+  {
+    "name": "softwares-academicos",
+    "path": "/softwares-academicos",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\softwares-academicos\\\\index.vue",
+    "chunkName": "pages/softwares-academicos/index"
+  },
+  {
+    "name": "app-servicos-web-configuracao-avancada",
+    "path": "/app-servicos-web/configuracao-avancada",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\app-servicos-web\\\\configuracao-avancada.vue",
+    "chunkName": "pages/app-servicos-web/configuracao-avancada"
+  },
+  {
+    "name": "app-servicos-web-elibrary",
+    "path": "/app-servicos-web/elibrary",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\app-servicos-web\\\\elibrary.vue",
+    "chunkName": "pages/app-servicos-web/elibrary"
+  },
+  {
+    "name": "app-servicos-web-integracao-migracao-dados",
+    "path": "/app-servicos-web/integracao-migracao-dados",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\app-servicos-web\\\\integracao-migracao-dados.vue",
+    "chunkName": "pages/app-servicos-web/integracao-migracao-dados"
+  },
+  {
+    "name": "case-studies-CaseStudieController",
+    "path": "/case-studies/CaseStudieController",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\case-studies\\\\CaseStudieController.js",
+    "chunkName": "pages/case-studies/CaseStudieController"
+  },
+  {
+    "name": "curso-elearning-amedida-elearning-personalizado",
+    "path": "/curso-elearning-amedida/elearning-personalizado",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\curso-elearning-amedida\\\\elearning-personalizado.vue",
+    "chunkName": "pages/curso-elearning-amedida/elearning-personalizado"
+  },
+  {
+    "name": "curso-elearning-amedida-motion-gamification",
+    "path": "/curso-elearning-amedida/motion-gamification",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\curso-elearning-amedida\\\\motion-gamification.vue",
+    "chunkName": "pages/curso-elearning-amedida/motion-gamification"
+  },
+  {
+    "name": "formacao-certificada-consultoria-pedagogica-formacao",
+    "path": "/formacao-certificada/consultoria-pedagogica-formacao",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\formacao-certificada\\\\consultoria-pedagogica-formacao.vue",
+    "chunkName": "pages/formacao-certificada/consultoria-pedagogica-formacao"
+  },
+  {
+    "name": "formacao-certificada-cursos-elearning-catalogo",
+    "path": "/formacao-certificada/cursos-elearning-catalogo",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\formacao-certificada\\\\cursos-elearning-catalogo.vue",
+    "chunkName": "pages/formacao-certificada/cursos-elearning-catalogo"
+  },
+  {
+    "name": "formacao-certificada-educacao-executiva-cursos-udemy",
+    "path": "/formacao-certificada/educacao-executiva-cursos-udemy",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\formacao-certificada\\\\educacao-executiva-cursos-udemy.vue",
+    "chunkName": "pages/formacao-certificada/educacao-executiva-cursos-udemy"
+  },
+  {
+    "name": "plataformas-elearning-hosting-gerido",
+    "path": "/plataformas-elearning/hosting-gerido",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\plataformas-elearning\\\\hosting-gerido.vue",
+    "chunkName": "pages/plataformas-elearning/hosting-gerido"
+  },
+  {
+    "name": "plataformas-elearning-plataformas-open-source",
+    "path": "/plataformas-elearning/plataformas-open-source",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\plataformas-elearning\\\\plataformas-open-source.vue",
+    "chunkName": "pages/plataformas-elearning/plataformas-open-source"
+  },
+  {
+    "name": "plataformas-elearning-plataformas-totara",
+    "path": "/plataformas-elearning/plataformas-totara",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\plataformas-elearning\\\\plataformas-totara.vue",
+    "chunkName": "pages/plataformas-elearning/plataformas-totara"
+  },
+  {
+    "name": "softwares-academicos-anti-plagio",
+    "path": "/softwares-academicos/anti-plagio",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\softwares-academicos\\\\anti-plagio.vue",
+    "chunkName": "pages/softwares-academicos/anti-plagio"
+  },
+  {
+    "name": "softwares-academicos-e-schooling",
+    "path": "/softwares-academicos/e-schooling",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\softwares-academicos\\\\e-schooling.vue",
+    "chunkName": "pages/softwares-academicos/e-schooling"
+  },
+  {
+    "name": "case-studies-projeto",
+    "path": "/case-studies/:projeto?",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\case-studies\\\\_projeto.vue",
+    "chunkName": "pages/case-studies/_projeto"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Andre Andrade\\\\Pictures\\\\edudigital_site_new\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
